@@ -1,14 +1,13 @@
-<h2 align="left">Hi 👋! My name is Max</h2>
+<h1 align="left">Hi 👋! My name is Max</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pak9999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pak9999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+*   🌍  I'm based in Southern Sweden
+*   🧠  I'm currently learning more backend skills.
 
 ###
 
+# 💻 Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="53" alt="javascript logo"  />
   <img width="12" />
@@ -35,21 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="53" alt="postgresql logo"  />
 </div>
 
-###
 
-<div align="left">
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pak9999&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pak9999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pak9999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pak9999/pak9999/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pak9999/count.svg?"  />
-</div>
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=pak9999&icon=0&color=0)](https://visitcount.itsvg.in)
