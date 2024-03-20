@@ -53,9 +53,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pak9999/count.svg?"  />
-</div>
-
-###
